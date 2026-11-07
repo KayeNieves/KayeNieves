@@ -4,7 +4,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Ciao! || Tup Manilax</h1>
+<h1 data-importer="text" align="center">Ciao! || Tup Manila</h1>
 
 ###
 
