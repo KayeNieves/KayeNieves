@@ -4,7 +4,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Ciao! I'm Kaye. A Junior Student</h1>
+<h1 data-importer="text" align="center">Ciao! I'm Kaye. A Junior Student @TUP Manila</h1>
 
 ###
 
