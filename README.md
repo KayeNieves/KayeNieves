@@ -4,7 +4,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Ciao! • TUP Manila</h1>
+<h1 data-importer="text" align="center">Dum spiro, spero • TUP Manila</h1>
 
 ###
 
